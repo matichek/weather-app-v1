@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 14.6589,
+    "lat": 45.9556
+  },
+  "weather": [{
+    "id": 804,
+    "main": "Clouds",
+    "description": "overcast clouds",
+    "icon": "04d"
+  }],
+  "base": "stations",
+  "main": {
+    "temp": 279.84,
+    "feels_like": 279.84,
+    "temp_min": 275.95,
+    "temp_max": 283.28,
+    "pressure": 1008,
+    "humidity": 83
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 0.9,
+    "deg": 258,
+    "gust": 1.96
+  },
+  "clouds": {
+    "all": 99
+  },
+  "dt": 1640696382,
+  "sys": {
+    "type": 2,
+    "id": 2016258,
+    "country": "SI",
+    "sunrise": 1640673760,
+    "sunset": 1640704977
+  },
+  "timezone": 3600,
+  "id": 3199523,
+  "name": "Grosuplje",
+  "cod": 200
+}
